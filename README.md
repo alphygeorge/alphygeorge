@@ -1,5 +1,10 @@
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px"> , I’m Alphy George</h1>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/alphy-george-568347202/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/_alphy_george__/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <h3 align="center">I'm a Computer Science Student!</h3>
 <h4 align="center">I am currently studying at SJCET.</h4>
 <br>
