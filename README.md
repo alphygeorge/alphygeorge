@@ -15,5 +15,5 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alphygeorge&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="ALPHY's Github Stats" /></a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinkerness&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphygeorge&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
