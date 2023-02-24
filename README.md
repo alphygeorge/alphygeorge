@@ -13,13 +13,7 @@ Here are some ideas to get you started:
 
 - 👀 I’m interested in programming and debugging.
 - 🌱 I’m currently learning how to improvise my tiny skill set.
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-tinkerness/tinkerness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-                       
-
+                    
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alphygeorge&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="ALPHY's Github Stats" /></a>
   
