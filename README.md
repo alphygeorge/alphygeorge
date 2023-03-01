@@ -11,7 +11,7 @@
 <br>
 
 - 👀 I’m interested in programming and debugging.
--     working on mini project 'minnal'.
+- 🔭 I’m currently working on **Mini Project:Minnal**
 - 🌱 I’m currently learning how to improvise my technical skill set.
 - 📫 How to reach me: <a href="mailto: alphygeorge70@gmail.com">Mail</a>,<a href="https://www.instagram.com/_alphy_george_/"> Instagram</a>                  
 <p align="center">
