@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in programming and debugging.
 - 🔭 I’m currently working on **Mini Project:Minnal**
-- 🌱 I’m currently learning how to improvise my technical skill set.
+- 🌱 learning how to improvise my technical skill set.
 - 📫 How to reach me: <a href="mailto: alphygeorge70@gmail.com">Mail</a>,<a href="https://www.instagram.com/_alphy_george_/"> Instagram</a>                  
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alphygeorge&show_icons=true&theme=tokyonight&hide=issues,contribs" alt="ALPHY's Github Stats" /></a>
