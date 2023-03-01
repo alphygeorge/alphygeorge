@@ -7,7 +7,7 @@
   
 <br>
 <h3 align="center">I'm a Computer Science Student!</h3>
-<h4 align="center">I am currently studying at SJCET.</h4>
+<h4 align="center">passionate front end developer from india.</h4>
 <br>
 
 - 👀 I’m interested in programming and debugging.
