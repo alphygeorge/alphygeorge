@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **THIRDEYE: CONNECTING THE DOTS OF UNSEEN WORLD**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **alphygeorge70@gmail.com**
 
