@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphygeorge&label=Profile%20views&color=0e75b6&style=flat" alt="alphygeorge" /> </p>
 
-- 🔭 I’m currently working on **THIRDEYE: CONNECTING THE DOTS OF UNSEEN WORLD**
 
 - 🌱 I’m currently learning **React**
 
